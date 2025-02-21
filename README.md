@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vipin kumar
-- 👀 I’m interested in developing full stack website
+- 👀 I’m interested in developing website uing MERN 
 - 🌱 I’m currently learning  Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

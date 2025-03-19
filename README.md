@@ -29,5 +29,5 @@ Served as an Invigilator in a Mini Hackathon.
 Active member of the Technical Committee.
 
 📫 Reach me at: vipinmeomon@gmail.com
-🔗 GitHub: vipinmememon
+🔗 GitHub:https://github.com/vipinmemon
 
